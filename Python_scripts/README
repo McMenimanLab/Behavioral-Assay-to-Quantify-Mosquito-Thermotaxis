@@ -1,0 +1,7 @@
+This folder contains three python script used to record temperature using an Arduino and video using a Raspberry Pi. 
+
+Temperature_arduino.py is a script that allows to store in a csv file the temperature recorded by an Arduino (the Arduino must be running the Thermistor_Peltier_control.ino script found in the Arduino_scripts folder). 
+
+run_preview.py is a script that runs a Raspberry pi camera module for a few seconds and can be used to position the camera and check if the camera zoom and focus are appropriate for recordings. 
+
+video.py can be used to record a movie useing a Raspberry pi camera module. 
