@@ -1,0 +1,4 @@
+This folder contains two .stl files:
+
+LED_frame_10cm is a design for a circular LED frame that can hold up to 12 LEDs. 
+LED_clear_diffusser is a design for a circular diffuser placed on inside of the LED frame used to diffuse the light coming from the LEDs. 
