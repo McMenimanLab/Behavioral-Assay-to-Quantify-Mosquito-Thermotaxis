@@ -1,0 +1,5 @@
+This folder contians two Arduino scripts that can be used to control the temperature of a Peltier element using a thermistor.
+
+Thermistor_Peltier_control can be used to control the temperature of a Peltier element with out implementing a PID control. 
+
+Peltier_PID can be used to control the temperature of a Peltier element using a PID control. The use of a PID control is only recommended if strong fluctuations of temeprature are observed using Thermistor_Peltier_control. 
